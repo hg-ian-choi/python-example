@@ -1,9 +1,10 @@
-############ mathematics ############
+# mathematics
 # Rule: PEMDAS
 #   Parentheses               => ()
 #   Exponentiation            => **
 #   Multiplication / Division => * / /
 #   Addition / Subtraction    => + / -
+
 addition = 3 + 5  # 8
 print(addition)  # int
 
